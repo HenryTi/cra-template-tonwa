@@ -1,0 +1,9 @@
+{
+	"name": "cra-template-tonwa",
+	"version": "1.0.0",
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/henryti/cra-template-tonwa"
+	}
+}
